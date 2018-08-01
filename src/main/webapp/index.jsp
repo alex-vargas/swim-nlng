@@ -17,7 +17,7 @@
 </h2>
 <p>
 	Request a JSON narrative for the Urban Price output for the <a href="https://water.cybershare.utep.edu/swim/create?usid=6820be4" target="_blank">scenario "6820be4"</a> --
-	<a href="http://purl.org/swim/services/nlng?usid=6820be4&varName=urb_price&userType=all&focusArea=urban&region=El%20Paso&lang=en&varValueName=miuse&varValueRegion=EPMI_u_f">
+	<a href="http://purl.org/swim/services/nlng?usid=6820be4&varName=urb_price&userType=citizen&focusArea=urban&region=El%20Paso&lang=en&varValueName=miuse&varValueRegion=EPMI_u_f">
 		Try me!
 	</a>
 </p>
