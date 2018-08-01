@@ -16,6 +16,9 @@ database for processing. SWIM's database is currently managed with an instance o
   - SWIM narrative template collection.
   - SWIM user scenario collection. 
   
+## Demo
+Visit: http://purl.org/swim/services/nlng
+  
 ## Contributors
 + Alejandro Vargas - ravargasaco@miners.utep.edu
 + Luis Garnica - luis@gitgudconsulting.com
